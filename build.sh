@@ -4,7 +4,7 @@
 # Copyright (C) 2020-2021 Adithya R.
 
 SECONDS=0 # builtin bash timer
-ZIPNAME="QuicksilveRV2-ginkgo-$(date '+%Y%m%d-%H%M').zip"
+ZIPNAME="QuicksilveRV2-ginkgo-KSU-$(date '+%Y%m%d-%H%M').zip"
 TC_DIR="$HOME/tc/xRageTC-clang"
 AK3_DIR="$HOME/android/AnyKernel3"
 DEFCONFIG="vendor/ginkgo-perf_defconfig"
